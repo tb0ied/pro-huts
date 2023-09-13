@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("./food.jpg");
+    background-size: auto; 
+    opacity: 1.0; 
+    }
+
+.menu-item {
+    background-color: rgba(255, 255, 255, 0.2);
+    border:  1px solid #ddd;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+ }
+
